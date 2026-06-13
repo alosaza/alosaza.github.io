@@ -58,7 +58,7 @@ al_folio:
     theme:
       extend:
         colors:
-          link: '#000080'
+          link: '#4166f5'
   distill:
     engine: distillpub-template
     source: al-org-dev/distill-template#al-folio
