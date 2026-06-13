@@ -51,9 +51,14 @@ al_folio:
   api_version: 1
   style_engine: tailwind
   tailwind:
-    version: 4.1.18
-    preflight: false
-    css_entry: assets/tailwind/app.css
+  version: 4.1.18
+  preflight: false
+  css_entry: assets/tailwind/app.css
+  config:
+    theme:
+      extend:
+        colors:
+          link: '#000080'
   distill:
     engine: distillpub-template
     source: al-org-dev/distill-template#al-folio
