@@ -22,7 +22,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
@@ -30,3 +30,5 @@ latest_posts:
 I am currently studying a MSc. in Mathematics at Rheinische Friedrich-Wilhelms-Universität Bonn. Previously I did my Bachelor in Mathematics and in Physics in Universidad Complutense de Madrid.
 
 I am particularly interested in Algebraic Geometry, Abelian Varieties, Derived Categories and Arithmetic Geometry.
+
+My CV is [here]({{ site.url}}/assets/pdf/cv.pdf)
