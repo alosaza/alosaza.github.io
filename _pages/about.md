@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
@@ -31,4 +31,6 @@ I am currently studying a MSc. in Mathematics at Rheinische Friedrich-Wilhelms-U
 
 I am particularly interested in Algebraic Geometry, Abelian Varieties, Derived Categories and Arithmetic Geometry.
 
-My CV is [here]({{ site.url}}/assets/pdf/cv.pdf)
+My CV is [here]({{ site.url}}/assets/pdf/cv.pdf).
+
+Email: 
